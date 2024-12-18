@@ -17,7 +17,7 @@ TODO: Replace this with a description of the organization of your repository.
 
 TODO: Update the following links and remove this line.
 
-- YouTube: https://youtu.be/TODO.
+- YouTube: [https://youtu.be/AU5_ZZC-tcI](https://youtu.be/AU5_ZZC-tcI)
 - Script: [script.pdf](script.pdf).
 - Recording: [recording.mp4](recording.mp4).
 - Slides: [slides.pdf](slides.pdf) and slide sources: [slides.pptx](slides.pptx).
