@@ -17,12 +17,12 @@ For the review, the repository files are organized as
 ├── README.md                      (this file)
 ├── instructions.md                (instructions for video and submission requirements)
 └── materials
-    ├── slides.pdf                 (slides used in video in pdf format)
-    ├── slides.pptx                (slides used in video in powerpoint format)
-    ├── script.pdf                 (audio script for recording)
+    ├── recording.mp4              (video and audio recording of presentation)
     ├── review.worksheet.sc        (scala worksheet containing all of the code used in the video)
-    └── recording.mp4              (video and audio recording of presentation)
-    
+    ├── script.pdf                 (audio script for recording)
+    ├── slides.pdf                 (slides used in video in pdf format)
+    └── slides.pptx                (slides used in video in powerpoint format)
+     
 ```
 
 ## Presentation
