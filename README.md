@@ -4,18 +4,14 @@
 
 See [instructions.md](instructions.md) for submission instructions.
 
-# TODO: Replace this with Your Project Title
+# Higher-Order Functions Review
 
 ## Description
 
-TOD: Replace this with at least a few paragraphs describing your project.
+In the video, I have gone over the higher-order functions that we talked about in class (map, filter, and flatMap) to show how they work on Scala collections such as lists, maps, and options. I also show an example of flatten to better illustrate how flatMap functions. 
 ## Repository Organization
 
 TODO: Replace this with a description of the organization of your repository.
-
-## Building and Testing Instructions
-
-TODO: Replace with building and testing instructions. Please minimize the number of dependencies and as simple and platform-independent as possible. Consider, for example, using [Docker](https://www.docker.com/).
 
 ## Presentation
 
