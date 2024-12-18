@@ -11,11 +11,21 @@ See [instructions.md](instructions.md) for submission instructions.
 In the video, I have gone over the higher-order functions that we talked about in class (map, filter, and flatMap) to show how they work on Scala collections such as lists, maps, and options. I also show an example of flatten to better illustrate how flatMap functions. 
 ## Repository Organization
 
-TODO: Replace this with a description of the organization of your repository.
+For the review, the repository files are organized as 
+```
+.
+├── README.md                      (this file)
+├── instructions.md                (instructions for video and submission requirements)
+└── materials
+    ├── slides.pdf                 (slides used in video in pdf format)
+    ├── slides.pptx                (slides used in video in powerpoint format)
+    ├── script.pdf                 (audio script for recording)
+    ├── review.worksheet.sc        (scala worksheet containing all of the code used in the video)
+    └── recording.mp4              (video and audio recording of presentation)
+    
+```
 
 ## Presentation
-
-TODO: Update the following links and remove this line.
 
 - YouTube: [https://youtu.be/AU5_ZZC-tcI](https://youtu.be/AU5_ZZC-tcI)
 - Script: [script.pdf](script.pdf).
